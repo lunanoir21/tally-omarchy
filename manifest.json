@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.lunanoir21.tally-screentime",
+  "name": "Tally Screen Time",
+  "version": "0.1.0",
+  "author": "lunanoir21",
+  "license": "MIT",
+  "description": "Screen time for Omarchy — which apps you focus and for how long, against a daily goal: a pill on the screen edge, a card under it, and reports as PNG, PDF and interactive HTML.",
+  "kinds": ["service"],
+  "keepLoaded": true,
+  "entryPoints": { "service": "Service.qml" }
+}
