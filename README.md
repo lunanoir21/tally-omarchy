@@ -1,5 +1,9 @@
 # Tally Screen Time for Omarchy
 
+![built with Claude Code](https://img.shields.io/badge/built%20with-Claude%20Code-D97757)
+![AI-assisted](https://img.shields.io/badge/AI--assisted-yes-e6edf3)
+![directed by human](https://img.shields.io/badge/directed%20by-human-3d444d)
+
 > **This repo is only packaging.** The project itself lives at
 > **[lunanoir21/tally-screentime](https://github.com/lunanoir21/tally-screentime)** —
 > source, [changelog](https://github.com/lunanoir21/tally-screentime/blob/main/CHANGELOG.md),
@@ -29,6 +33,9 @@ first-run tour), so like those it doesn't need omarchy-shell to summon or positi
 anything. Because a service can't place a widget into Omarchy's bar, the pill gets a small
 window of its own at the top-right corner, just under the bar; hide it in Settings
 (*Always show in the bar*) if you'd rather use a keybind.
+
+> [!IMPORTANT]
+> **Built with AI.** This project was largely written with [Claude Code](https://claude.com/claude-code). The ideas, design decisions, testing and final review are mine.
 
 ## Install
 
